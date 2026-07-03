@@ -1,0 +1,8 @@
+Evento: Se actualiza el estado de una solicitud ciudadana.
+
+Acción:n8n envía una notificación a Telegram.
+
+Mensaje: "Una solicitud ciudadana ha sido actualizada. Revisa el sistema para más información."
+
+Información que no debe enviarse: Datos personales, documentos de identidad, direcciones, 
+números de teléfono, correos electrónicos o cualquier información confidencial.
